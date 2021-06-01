@@ -8,4 +8,4 @@ state varchar(30))
 
 2. INSERT INTO Users(name, company, city, state) VALUES (‘Trevor’, ‘Apple’, ‘New York’, ‘America’)
 
-3. UPDATE table name="Michel", city=Estonia WHEERE user_id
+3. UPDATE table name="Michel", city=Estonia WHERE user_id
